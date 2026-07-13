@@ -23,7 +23,7 @@ We have these denoted as "Text Type 0" in the Spreadsheet.
 The Game draws a `RECT` with a blue background, references images for the borders along the sides and corners, and calls a `PrintText` function to convert the raw script into characters that will be printed onscreen.  
 In the middle of the script, there are various "Control Codes" that set flags, line breaks, prompt the user for input, clears the text box, or trigger other events.
 
-<img width="50%" height="50%" alt="Base Overlay" src="https://github.com/user-attachments/assets/f05aa486-93aa-43a2-88ed-a839817f5234" />
+<img alt="Base Overlay" src="https://github.com/user-attachments/assets/f05aa486-93aa-43a2-88ed-a839817f5234" />
 
 ## Menus, Shops, and others
 

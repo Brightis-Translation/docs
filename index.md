@@ -35,6 +35,9 @@ There are 4 types, each with their own location in RAM where text gets loaded in
 | Cnst(Constant) Overlay | `8015F328` | Used in menus & shops that will stay static. |
 | Sub Overlay | `80156CA4` | used w/ other overlays (such as Base or Cnst) to make additions/varibles show as needed. |
 
+When patching each section/blob, we pad 4 bytes similar to how the original text performs.  
+This is done to calculate the continous section/blob properly, and save space. While this isn't necessary for every section, doing this by hand would be very difficult & time-consuming. 
+
 ### Other Text Details
 
 - Text is (mostly) readable using a Shift-JIS table once decompressed.
