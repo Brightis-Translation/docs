@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Brightis Documentation & Discoveries
+description: All docs & findings related to Brightis for PS1!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://brightis-translation.github.io/docs/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Main Repos: https://github.com/Brightis-Translation
