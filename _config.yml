@@ -3,6 +3,7 @@ description: All docs & findings related to Brightis for PS1!
 theme: just-the-docs
 
 url: https://brightis-translation.github.io/docs/
+nav_fold: false
 
 aux_links:
   Main Repos: https://github.com/Brightis-Translation
