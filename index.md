@@ -1,3 +1,11 @@
+---
+title: Home
+layout: home
+nav_order: 1
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+permalink: /
+---
+
 # Welcome to the Brightis Translation Wiki
 
 If you are new here, please refer to the [ReadMe](https://github.com/Dickdebonair/Brightis-fan-translation) at the root of the repo for the gist of what we're doing.  
