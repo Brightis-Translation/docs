@@ -7,10 +7,10 @@ nav_order: 3
 
 #### Table of Contents
 
-- [What this file does](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/ONMOVR.BIN#what-this-file-does)
-- [Overlays](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/ONMOVR.BIN#overlays)
-- [Determining the pointer table structure](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/ONMOVR.BIN#determining-the-pointer-table-structure---onmovrbin)
-- [Overlay Addresses & Slot Assignments](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/ONMOVR.BIN#overlay-addresses-and-slot-assignments)
+- [What this file does](#what-this-file-does)
+- [Overlays](#overlays)
+- [Determining the pointer table structure](#determining-the-pointer-table-structure---onmovrbin)
+- [Overlay Addresses & Slot Assignments](#overlay-addresses-and-slot-assignments)
 
 #### What this file does
 From our assumptions, the file `ONMOVR.BIN` is used for anything related to the player's data stats, equipment and more.  

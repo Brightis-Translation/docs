@@ -33,14 +33,14 @@ The bottom text box will update based on what's selected.
 
 Shops & Technique screens use the Constant Overlay (noted as `CnstOverlay` in technical docs) found at `8015F328`  
 
-<img src="https://github.com/user-attachments/assets/7e38e050-de22-412a-8a34-58bb83c6eb6d" width=50% height=50%>
-<img src="https://github.com/user-attachments/assets/ac48fc00-753f-4148-af77-3bf743b41305" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/7e38e050-de22-412a-8a34-58bb83c6eb6d" />
+<img src="https://github.com/user-attachments/assets/ac48fc00-753f-4148-af77-3bf743b41305" />
 
 ***
 
 Status screens, such as the pause menu, use the `SubOverlay` found at `80156CA4`.
 
-<img src="https://github.com/user-attachments/assets/7202fd34-4018-424f-96c5-54414a44709b" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/7202fd34-4018-424f-96c5-54414a44709b" />
 
 ## Tutorial and On-Screen Overlays
 
@@ -49,7 +49,7 @@ When the player is instructed to press certain buttons, such as during the tutor
 The Game will still use the Base Overlay adress to show this, but calls a special method in game to display two lines staggered, on the right half of the screen.
 We have these denoted as "Text Type 1" in the Spreadsheet.
 
-<img src="https://github.com/user-attachments/assets/e3512539-c1a3-4bd3-93fa-09a3f0f9710d" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/e3512539-c1a3-4bd3-93fa-09a3f0f9710d" />
 
 ## Area Transitions
 
@@ -59,4 +59,4 @@ It appears to use the Base Overlay, when comparing the offset in the file compar
 
 We have these denoted as "Text Type 2" in the Spreadsheet (subject to change).
 
-<img src="https://github.com/user-attachments/assets/aba98cba-75bc-4c7c-9cbb-80ef334b2f56" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/aba98cba-75bc-4c7c-9cbb-80ef334b2f56" />

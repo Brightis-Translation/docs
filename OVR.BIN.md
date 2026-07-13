@@ -7,13 +7,13 @@ nav_order: 2
 
 #### Table of Contents
 
-- [Pointer Types & Text Offsets](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/OVR.BIN#pointer-types-and-text-offsets)
-  - [Command Codes](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/OVR.BIN#command-codes)
-  - [Controlling the Text Overlay](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/OVR.BIN#controlling-the-text-overlay)
-  - [OVR.BIN Specifics](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/OVR.BIN#OVR.BIN-specifics)
-  - [Specific Functions](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/OVR.BIN#specific-functions)
-    - [Determining Pointer Tables](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/OVR.BIN#determining-pointer-tables---ovrbin)
-    - [Table Slot Assignments](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/OVR.BIN#table-slot-assignments)
+- [Pointer Types & Text Offsets](#pointer-types-and-text-offsets)
+  - [Command Codes](#command-codes)
+  - [Controlling the Text Overlay](#controlling-the-text-overlay)
+  - [OVR.BIN Specifics](#OVR.BIN-specifics)
+  - [Specific Functions](#specific-functions)
+    - [Determining Pointer Tables](#determining-pointer-tables---ovrbin)
+    - [Table Slot Assignments](#table-slot-assignments)
 
 # Pointer Types and Text Offsets
 
@@ -51,11 +51,11 @@ The current WIP allignment of text to pointers can be found at the root of the r
 
 ### Command Codes
 
-Refer to the [Text Control Codes](https://github.com/Dickdebonair/Brightis-fan-translation/wiki#control-codes) section on the Home page.
+Refer to the [Text Control Codes](https://brightis-translation.github.io/docs/#text-control-codes) section on the Home page.
 
 ### Controlling the Text Overlay
 
-Refer to the [Font Manipulation](https://github.com/Dickdebonair/Brightis-fan-translation/wiki#font-manipulation) section on the Home Page
+Refer to the [Font Manipulation](https://brightis-translation.github.io/docs/#font-manipulation) section on the Home Page
 
 ## OVR.BIN Specifics
 

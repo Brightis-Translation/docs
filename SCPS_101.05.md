@@ -7,9 +7,9 @@ nav_order: 1
 
 #### Table of Contents
 
-- [Static Code Analysis](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/SCPS_101.05#static-code-analysis)
-- [Quick Function Key](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/SCPS_101.05#quick-function-key)
-- [Triggering the in-game DEBUG MODE](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/SCPS_101.05#triggering-debug-mode)
+- [Static Code Analysis](#static-code-analysis)
+- [Quick Function Key](#quick-function-key)
+- [Triggering the in-game DEBUG MODE](#triggering-debug-mode)
 
 # Static Code Analysis
 

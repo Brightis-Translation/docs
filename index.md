@@ -7,7 +7,6 @@ permalink: /
 
 # Welcome to the Brightis Translation Wiki
 
-If you are new here, please refer to the [ReadMe](https://github.com/Dickdebonair/Brightis-fan-translation) at the root of the repo for the gist of what we're doing.  
 If you would like to help, or follow along with our process, please check the [Getting Started](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/Getting%20Started) doc.
 
 This repo will have all the latest changes & discoveries. Please disregard the original General Discoveries file.

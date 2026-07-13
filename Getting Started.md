@@ -14,12 +14,12 @@ We plan on documenting how we did things here in the future, and what the tools 
 
 ##### Table of Contents
 
-- [Required Tools & Setup](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/Getting-Started#required-tools--setup)
-  - [Decompressing the Text](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/Getting-Started#Decompressing-the-Text)
-  - [Getting the Pointers](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/Getting-Started#Getting-the-Pointers)
-  - [Patching in the Text](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/Getting-Started#Patching-in-the-Text)
-  - [Patching the Game](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/Getting-Started#Patching-the-Game)
-  - [Building a Reusable Patch - Ideas](https://github.com/Dickdebonair/Brightis-fan-translation/wiki/Getting-Started#building-a-resuable-patch---ideas)
+- [Required Tools & Setup](#required-tools--setup)
+  - [Decompressing the Text](#Decompressing-the-Text)
+  - [Getting the Pointers](#Getting-the-Pointers)
+  - [Patching in the Text](#Patching-in-the-Text)
+  - [Patching the Game](#Patching-the-Game)
+  - [Building a Reusable Patch - Ideas](#building-a-resuable-patch---ideas)
 
 ### Required Tools & Setup
 
