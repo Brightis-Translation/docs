@@ -1,3 +1,4 @@
+Find the "pretty" version of the docs here! <https://brightis-translation.github.io/docs/>
 # Brightis (PS1) Fan Translation/Localization
 
 A (partial) decompilation and eventual ~~translation~~ localization of the PSX game Brightis by fan(s)
